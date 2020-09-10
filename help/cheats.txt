@@ -1,0 +1,16 @@
+Cheats:
+
+Mission Elixir:
+The dosages for each stage: 50, 64, 81, 64
+The address: Area 5 4465 Stirling St. #65
+
+Mission Glitch:
+Stage 1: forward, forward, forward, left, forward, forward, forward
+Stage 2: left, forward, forward, left, forward, forward, right, forward,
+         forward, right, forward, left, forward
+Stage 3: repeat(5), forward, left, forward, right, end
+Stage 4: repeat(4), forward, forward, forward, right, end, left, forward,
+         forward, forward
+
+Mission Darwin:
+The answers for the classifications are: Felines, Dogs, Rodents, Mammals

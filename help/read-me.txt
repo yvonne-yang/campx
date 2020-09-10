@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------
+Camp X
+-------------------------------------------------------------------------------
+Developed by:
+Tigerclaw Corp.
+CEO - Yuan Yang
+Head Programmer - Jaclyn Woon
+
+For:
+VK Enterprises
+CEO - Ms. Krasteva
+-------------------------------------------------------------------------------
+Summary:
+
+In this game, the player is a spy who receives a new mission. They have to save
+some agents in order to retrieve the intel they have acquired. They do this by
+creating antidotes using maths. The intel leads the player to the second
+mission at a seemingly abandoned suspicious building. Since all the doors are
+locked, the player can only fit their tiny spy robot into a small vent. They
+then have to code the robot to destinations while avoiding robot guards. In the
+last mission, the player goes around the interior of the building finding
+information and that sorts that information using biology.
+-------------------------------------------------------------------------------
+Controls:
+
+The instructions for each mission can be viewed from the game menu during the
+mission.
+
+Mission Elixir:
+Use your mouse to select the text boxes and input the desired amount. Then
+click on the corresponding 'add' button. Click on the 'empty' button to empty
+the large beaker.
+
+Mission Glitch:
+Use your mouse to select the commands in the order you would like them to be
+executed. Use the red 'x' button in the bottom right to delete the last
+command. Click on the 'run' button to start executing your commands.
+
+Mission Darwin:
+Use the arrow keys to move around and the space bar to interact with the object
+you are facing. When classifying, click on the correct option.
+-------------------------------------------------------------------------------
+The spy rankings creates a directory and file in C:/CampX/spyRankings.txt
+-------------------------------------------------------------------------------
+Credits:
+
+Lead Programmer - Jaclyn Woon
+Second Lead Programmer - Yuan Yang
+Lead Graphics Designer - Yuan Yang
+Assistant Graphics Designer - Jaclyn Woon
+Animator - Yuan Yang
+
+Pink Panther Theme
+Composed by: Henry Mancini
+
+“Mission Elixir" spy theme - "Secret Agent"
+Composed by: Mark Scetch Lee
+
+"Mission Glitch" spy theme - "Mission Impossible Piano Cover"
+Composed by: Lalo Schifrin
+Arranged and performed by: Pianoheart
+
+"Mission Darwin" spy theme
+Compiled from: Youtube Audio Library
+Compiled by: Kevin MacLeod (incompetech.com)
+             Teknoaxe (Teknoaxe.com)
+
+Prusten SE
+Performed by: Jaclyn Woon
+-------------------------------------------------------------------------------
