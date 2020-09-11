@@ -40,7 +40,8 @@ Mission Darwin:
 Use the arrow keys to move around and the space bar to interact with the object
 you are facing. When classifying, click on the correct option.
 -------------------------------------------------------------------------------
-The spy rankings creates a directory and file in C:/CampX/spyRankings.txt
+NOTE: A file named “spyrankings.txt” will appear in src folder after first play.
+This will store your game history.
 -------------------------------------------------------------------------------
 Credits:
 

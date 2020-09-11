@@ -56,8 +56,8 @@ import java.util.ArrayList;
  */
 public class SpyRankings extends JPanel implements ActionListener
 {
-  private final String FILENAME = "/savedRankings.txt";
-  private final String DIRECTORY = "C:/CampX";
+  private final String FILENAME = "/src/savedRankings.txt";
+  private final String DIRECTORY = System.getProperty("user.dir");
   private File file = new File (DIRECTORY);
   private final int NUMBER_OF_TOP_SPIES = 10;
   private ArrayList<String> spyNames;   
@@ -67,6 +67,7 @@ public class SpyRankings extends JPanel implements ActionListener
   private CustomButton resetButton;  
   private Image titleImage;
   private MainMenu menu;
+  private boolean noRankings;
   
   
   /** 
@@ -88,10 +89,12 @@ public class SpyRankings extends JPanel implements ActionListener
     
     spyNames = new ArrayList <String> ();
     spyContribPoints = new ArrayList <Integer> ();
+    noRankings = false;
     
     if (!file.exists())
     {
       createFile();
+      noRankings = true;
     }
     file = new File (DIRECTORY + FILENAME);
     
@@ -130,6 +133,11 @@ public class SpyRankings extends JPanel implements ActionListener
     
     g.setColor (Color.white);    
     g.setFont (new Font ("Georgia", 0, 25));    
+    if (noRankings)
+    {
+        g.drawString ("Looks like no one has survived Camp X yet…", 400, 150);
+        return;
+    }
     for (int i = 0; i < NUMBER_OF_TOP_SPIES; i++)    
     {    
       g.drawString ((i+1) + ".", 360, 150 + i * 50);    
@@ -168,6 +176,7 @@ public class SpyRankings extends JPanel implements ActionListener
         spyNames.clear();
         spyContribPoints.clear();
         storeListsIntoFile();
+        noRankings = true;
         repaint();
       }
     }
@@ -193,6 +202,9 @@ public class SpyRankings extends JPanel implements ActionListener
     if (name == null || name == "")    
       name = "anonymous spy";    
     
+    if (noRankings)
+	noRankings = false;
+
     //Check if the player made it into the top ten    
     if (spyNames.size () == 0 && spyContribPoints.size() == 0) //first winner    
     {    
