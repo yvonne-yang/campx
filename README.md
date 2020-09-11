@@ -24,4 +24,5 @@ This was originally the culminating project of our Grade 12 Computer Science cla
 It's our honour that you would download and have a go at this game! Just make sure you don't modify and distribute it for profit. Please also acknowledge the authors, Yvonne Yang and Jaclyn Woon.
 
 
+![logo](/logo.jpg?raw=true)
 Painstakingly but proudly made by Tigerclaw Corp., 2017.
