@@ -21,7 +21,7 @@ Psst, I heard there are also cheats hidden somewhere!
 ## What's the story behind this project?
 This was originally the culminating project of our Grade 12 Computer Science class. It was a cool project that simulated real-world teamworking. We worked as contractors for the client, our teacher, and wrote weekly/summative reports. Even as university students looking back, no other course ever taught us *this* much. Organizing program structures (with UMLs), documenting, communicating with a client, communicating amongst the team, constantly improving and reflecting--those 120 hours spent were well worth it. This experience changed both of our lives. We went on to pursue software-related degrees and still dream about making magic happen at Rayark. 
 ## Copyright
-It's our honour that you would download and have a go at this game! Just make sure you don't modify and distribute it for profit. Please also acknowledge the authors, Yvonne Yang and Jaclyn Woon.
+It's our honour that you would download and have a go at this game! Just make sure you don't modify and distribute it for profit. Please also acknowledge the authors, Yvonne Yang and Jaclyn Woon Jia Hui.
 
 
 ![logo](/logo.jpg?raw=true)
