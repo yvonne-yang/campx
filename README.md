@@ -1,4 +1,4 @@
-![A cool banner](/banner.jpg?raw=true)
+![A cool banner](/other/banner.jpg?raw=true)
 # Camp X
 *Do you dream about going on a top-secret mission? Saving fellow agents and retrieve intel with your expertise?  
 Welcome to Camp X. A mission of antidotes, scout robots, and dangerous beasts in an abandoned place.  
@@ -7,8 +7,10 @@ Only the best of the best will survive...*
 
 This is a 3-level educational game made for students in middle/high school. The levels are Mission Elixir (maths and chemistry), Mission Glitch (visual programming), and Mission Darwin (biology). The instructions to each level are shown before each one. You can also pause the game any time to view them in a game menu. Your progress for each game is saved in "Spy Rankings".
 
-## A sneak peek  
-(put some cool gifs here, or a random cutscene selector)
+## Sneak peeks  
+![Elixir](/other/elixir.png?raw=true)  
+![Glitch](/other/glitch.png?raw=true)  
+![Darwin](/other/darwin.png?raw=true)  
 
 ## How to install?  
 It's simple! Only 4 steps.  
@@ -28,6 +30,6 @@ This was originally the culminating project of our Grade 12 Computer Science cla
 It's our honour that you would download and have a go at this game! Just make sure you don't modify and distribute it for profit. Please also acknowledge the authors, Yvonne Yang and Jaclyn Woon Jia Hui.
 
 
-![logo](/logo.jpg?raw=true)
+![logo](/other/logo.jpg?raw=true)
 
 Painstakingly but proudly made by Tigerclaw Corp., 2017.
