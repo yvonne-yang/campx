@@ -24,8 +24,8 @@ Psst, I heard there are also cheats hidden somewhere!
 
 ## What's the story behind this project?  
 This was originally the culminating project of our Grade 12 Computer Science
-class. It was a cool project that simulated real-world teamworking. We worked as
-contractors for the client, our teacher, and wrote weekly/summative reports.
+class, ICS4U0, at William Lyon Mackenzie C.I. It was a cool project that
+simulated real-world teamworking. We worked as contractors for the client, our teacher, and wrote weekly/summative reports.   
 Even as university students looking back, no other course ever taught us *this*
 much. Organizing program structures (with UMLs), documenting, communicating with
 a client, communicating amongst the team, constantly improving and
