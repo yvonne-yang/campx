@@ -8,7 +8,7 @@ Only the best of the best will survive...*
 This is a 3-level educational game made for students in middle/high school. The levels are Mission Elixir (maths and chemistry), Mission Glitch (visual programming), and Mission Darwin (biology). The instructions to each level are shown before each one. You can also pause the game any time to view them in a game menu. Your progress for each game is saved in "Spy Rankings".
 
 ## Sneak peek    
-![peek](/other/peek.png?raw=true)  
+![peek](/other/peek.jpg?raw=true)  
 
 ## How to install?  
 It's simple! Only 4 steps.  
